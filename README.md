@@ -5,4 +5,4 @@ Commands:
 - set_afk_mode (on / off)
 
 Dependencies:
-- afk_api
+- afk_api: https://github.com/fluxionary/minetest-afk_api
