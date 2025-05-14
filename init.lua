@@ -42,7 +42,6 @@ minetest.register_chatcommand("set_afk_mode", {
                 minetest.chat_send_player(name, "AFK mode is now ON.")
             elseif mode == "off" then
                 afk_mode = false
-                afk_players = {}
                 minetest.chat_send_player(name, "AFK mode is now OFF.")
             else
                 minetest.chat_send_player(name, "Invalid mode. Use 'on' or 'off'.")
