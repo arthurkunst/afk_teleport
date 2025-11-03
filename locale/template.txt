@@ -1,0 +1,10 @@
+# textdomain: afk_teleport
+
+You have been AFK for @1 seconds. Teleporting to spawn...=
+You are back from being AFK after @1 seconds.=
+<mode>=
+Set AFK mode (on/off)=
+AFK mode is now ON.=
+AFK mode is now OFF.=
+Invalid mode. Use 'on' or 'off'.=
+You do not have permission to use this command.=
